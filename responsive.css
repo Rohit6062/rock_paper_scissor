@@ -31,4 +31,7 @@
         width: 80vw;
         margin: auto;
     }
+    .message{
+        font-size:25px;
+    }
 }
